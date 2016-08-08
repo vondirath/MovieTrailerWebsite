@@ -1,8 +1,8 @@
 import webbrowser
 
 
-# class movie constructor
 class Movie():
+    """Constructor used to create a movie object"""
     def __init__(self, movie_title, synopsis, poster_image, trailer_youtube):
         self.title = movie_title
         self.synopsis = synopsis
