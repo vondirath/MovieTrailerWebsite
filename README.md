@@ -33,6 +33,10 @@ What is included?
 Note: .pyc file extensions will also be created documentation can be found here https://docs.python.org/2/glossary.html
 This will generate an HTML file which can be renamed and is generated as "fresh_tomatoes.html"
 
+Credit:
+-------------
+Rotten tomatoes file written by Udacity.
+
 Copyright and license
 -------------
 The MIT License (MIT)
