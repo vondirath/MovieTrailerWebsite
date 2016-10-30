@@ -35,7 +35,7 @@ This will generate an HTML file which can be renamed and is generated as "fresh_
 
 Credit:
 -------------
-Rotten tomatoes file written by Udacity.
+fresh_tomatoes file written by Udacity.
 
 Copyright and license
 -------------
